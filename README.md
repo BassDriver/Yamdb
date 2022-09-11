@@ -1,3 +1,5 @@
+![yamdb_workflow](https://github.com/BassDriver/yamdb_final/actions/workflows/yamdb_workflow.yml/badge.svg)
+
 # API YaMDb
 ### Описание проекта API YaMDB::
 
