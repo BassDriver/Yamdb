@@ -1,7 +1,7 @@
 ![yamdb_workflow](https://github.com/BassDriver/yamdb_final/actions/workflows/yamdb_workflow.yml/badge.svg)
 
 # API YaMDb
-### Описание проекта API YaMDB::
+### Описание проекта API YaMDB:
 
 Проект YaMDb собирает отзывы (Review) пользователей на произведения (Titles). Произведения делятся на категории: «Книги», «Фильмы», «Музыка». Список категорий (Category) может быть расширен администратором.
 
