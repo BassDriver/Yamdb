@@ -50,7 +50,7 @@ docker-compose exec web python manage.py migrate
 docker-compose exec web python manage.py createsuperuser
 docker-compose exec web python manage.py collectstatic --no-input
 ```
-После этого проект должен быть доступен по адресу [http://localhost/](http://localhost/).
+После этого проект должен быть доступен по адресу [http://localhost/](http://localhost/)
 
 ### Заполнение базы данных:
 Нужно зайти на на  [http://localhost/admin/](http://localhost/admin/), авторизоваться и внести записи в базу данных через админку.
