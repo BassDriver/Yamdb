@@ -1,5 +1,7 @@
 ![yamdb_workflow](https://github.com/BassDriver/yamdb_final/actions/workflows/yamdb_workflow.yml/badge.svg)
 
+Проект для проверки доступен по адресу: [http://51.250.79.153/](http://51.250.79.153/)
+
 # API YaMDb
 ### Описание проекта API YaMDB:
 
